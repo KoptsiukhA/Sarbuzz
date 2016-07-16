@@ -8,7 +8,6 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 
 public class TopLevelActivity extends AppCompatActivity {
-    private ListView
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
